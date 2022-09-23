@@ -1,0 +1,39 @@
+header{
+    background-color: dodgerblue;
+    margin-top: 100%;
+    width: 100%;
+    height: 100%;
+}
+
+body{
+    background-color: aqua;
+}
+
+.logo{
+    text-align: center;
+}
+
+.container{
+    width: 80%;
+    height: 800px;
+    background-color: lightskyblue;
+}
+
+section{
+    padding-top: 20%;
+    padding-bottom: 20%;
+}
+
+.primeira{
+    color: mediumblue;
+}
+
+.segunda{
+    color: lightskyblue;
+}
+
+footer{
+    margin-bottom: 100%;
+    width: 100%;
+    background-color: #fff;
+}
